@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "npm install": true,
+        "/^cd \"c:\\\\medifaith web\\\\site\"; node -e \"const icons=require\\('lucide-react'\\); const names=\\['GraduationCap','ClipboardCheck','FileCheck','PlaneTakeoff','HandCoins'\\]; for \\(const name of names\\) console\\.log\\(name, !!icons\\[name\\]\\);\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

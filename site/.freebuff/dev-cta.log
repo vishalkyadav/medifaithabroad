@@ -1,0 +1,106 @@
+▲ Next.js 16.4.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.108:3000
+✓ Ready in 528ms
+✓ Running next.config.ts took 34ms
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead.
+
+  To migrate automatically, run:
+  npx @next/codemod@canary middleware-to-proxy .
+
+  Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+- Cache Components enabled
+- Partial Prefetching enabled
+
+ GET / 200 in 1037ms (next.js: 399ms, application-code: 639ms)
+ GET / 200 in 210ms (next.js: 2ms, application-code: 208ms)
+ GET / 200 in 193ms (next.js: 3ms, application-code: 191ms)
+ GET / 200 in 408ms (next.js: 9ms, application-code: 399ms)
+ GET / 200 in 195ms (next.js: 7ms, application-code: 189ms)
+ GET / 200 in 196ms (next.js: 4ms, application-code: 192ms)
+⚠ Blocked cross-origin request to Next.js dev resource /_next/hmr from "127.0.0.1".
+Cross-origin access to Next.js dev resources is blocked by default for safety.
+
+To allow this host in development, add it to "allowedDevOrigins" in next.config.js and restart the dev server:
+
+// next.config.js
+module.exports = {
+  allowedDevOrigins: ['127.0.0.1'],
+}
+
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET / 200 in 177ms (next.js: 1.4ms, application-code: 176ms)
+ GET / 200 in 281ms (next.js: 7ms, application-code: 274ms)
+ GET / 200 in 330ms (next.js: 9ms, application-code: 321ms)
+ GET /images/University11.png 404 in 563ms (next.js: 518ms, application-code: 45ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 89ms (next.js: 1.4ms, application-code: 88ms)
+ GET / 200 in 209ms (next.js: 6ms, application-code: 203ms)
+ GET /images/University11.png 404 in 137ms (next.js: 43ms, application-code: 93ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 239ms (next.js: 4ms, application-code: 235ms)
+ GET /images/University11.png 404 in 108ms (next.js: 39ms, application-code: 69ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 183ms (next.js: 1.6ms, application-code: 181ms)
+ GET /images/University11.png 404 in 108ms (next.js: 24ms, application-code: 83ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 388ms (next.js: 5ms, application-code: 383ms)
+ GET /images/University11.png 404 in 121ms (next.js: 34ms, application-code: 87ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 243ms (next.js: 9ms, application-code: 233ms)
+ GET /images/University11.png 404 in 93ms (next.js: 25ms, application-code: 69ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 199ms (next.js: 5ms, application-code: 194ms)
+ GET /images/University11.png 404 in 92ms (next.js: 27ms, application-code: 64ms)
+⨯ internal image response failed for /images/University11.png 404
+[browser] Image with src "/images/studentfamily1.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+ GET / 200 in 249ms (next.js: 4ms, application-code: 245ms)
+ GET /images/University11.png 404 in 80ms (next.js: 18ms, application-code: 62ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 186ms (next.js: 3ms, application-code: 183ms)
+ GET /images/University11.png 404 in 99ms (next.js: 27ms, application-code: 72ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 386ms (next.js: 8ms, application-code: 378ms)
+ GET /images/University11.png 404 in 100ms (next.js: 30ms, application-code: 70ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 244ms (next.js: 4ms, application-code: 241ms)
+ GET /images/University11.png 404 in 102ms (next.js: 28ms, application-code: 74ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 227ms (next.js: 4ms, application-code: 223ms)
+ GET /images/University11.png 404 in 83ms (next.js: 19ms, application-code: 64ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 206ms (next.js: 3ms, application-code: 202ms)
+ GET /images/University11.png 404 in 96ms (next.js: 23ms, application-code: 73ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 223ms (next.js: 3ms, application-code: 220ms)
+ GET /images/University11.png 404 in 103ms (next.js: 34ms, application-code: 69ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 603ms (next.js: 3ms, application-code: 600ms)
+ GET /images/University11.png 404 in 299ms (next.js: 65ms, application-code: 234ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 633ms (next.js: 6ms, application-code: 627ms)
+ GET /images/University11.png 404 in 275ms (next.js: 64ms, application-code: 211ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 656ms (next.js: 7ms, application-code: 649ms)
+ GET /images/University11.png 404 in 363ms (next.js: 66ms, application-code: 298ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 576ms (next.js: 4ms, application-code: 572ms)
+ GET /images/University11.png 404 in 317ms (next.js: 57ms, application-code: 260ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 572ms (next.js: 6ms, application-code: 566ms)
+ GET /images/University11.png 404 in 586ms (next.js: 64ms, application-code: 521ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 418ms (next.js: 4ms, application-code: 413ms)
+ GET /images/University11.png 404 in 96ms (next.js: 24ms, application-code: 72ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 207ms (next.js: 1.6ms, application-code: 205ms)
+ GET /images/University11.png 404 in 103ms (next.js: 33ms, application-code: 70ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 328ms (next.js: 6ms, application-code: 321ms)
+ GET /images/University11.png 404 in 218ms (next.js: 101ms, application-code: 117ms)
+⨯ internal image response failed for /images/University11.png 404
+ GET / 200 in 372ms (next.js: 6ms, application-code: 366ms)
+ GET /images/University11.png 404 in 200ms (next.js: 58ms, application-code: 142ms)
+⨯ internal image response failed for /images/University11.png 404
+[?25h

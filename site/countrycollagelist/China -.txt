@@ -1,0 +1,127 @@
+China :-
+
+<style>
+  .mbbs-wrap {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 20px 0;
+  }
+
+  .mbbs-title {
+    margin: 0 0 16px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1e73be;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .mbbs-table-wrap {
+    overflow-x: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  }
+
+  table.mbbs {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 920px;
+    background: #fff;
+  }
+
+  table.mbbs thead th {
+    position: sticky;
+    top: 0;
+    background: linear-gradient(135deg, #1e73be, #0056a3);
+    color: #fff;
+    font-weight: 600;
+    padding: 14px 10px;
+    text-align: center;
+    font-size: 15px;
+    z-index: 5;
+  }
+
+  table.mbbs td {
+    border: 1px solid #f1f1f1;
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+  }
+
+  table.mbbs tbody tr:nth-child(even) {
+    background: #f9fbff;
+  }
+
+  table.mbbs tbody tr:hover {
+    background: #eaf3ff;
+    transform: scale(1.01);
+    transition: 0.2s;
+  }
+
+  table.mbbs td:first-child {
+    font-weight: 600;
+    text-align: left;
+    padding-left: 12px;
+    color: #333;
+  }
+
+  @media (max-width: 768px) {
+    table.mbbs {
+      font-size: 13px;
+      min-width: 680px;
+    }
+    .mbbs-title {
+      font-size: 22px;
+    }
+  }
+</style>
+
+<div class="mbbs-wrap">
+  <h2 class="mbbs-title">Top 40 Medical Universities in China for MBBS</h2>
+  <div class="mbbs-table-wrap">
+    <table class="mbbs">
+      <thead>
+        <tr>
+          <th>University</th>
+          <th>Location</th>
+          <th>Tuition Fees (Annual, ¥)</th>
+          <th>Hostel Fees (Annual, ¥)</th>
+          <th>Teaching Language</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Peking University Health Science Center</td><td>Beijing</td><td>50,000–60,000</td><td>10,000–15,000</td><td>English & Chinese</td></tr>
+        <tr><td>Fudan University – Shanghai Medical College</td><td>Shanghai</td><td>45,000–55,000</td><td>8,000–12,000</td><td>English & Chinese</td></tr>
+        <tr><td>Zhejiang University School of Medicine</td><td>Hangzhou</td><td>42,800</td><td>6,000–10,000</td><td>English</td></tr>
+        <tr><td>Nanjing Medical University</td><td>Nanjing</td><td>35,000–45,000</td><td>5,000–8,000</td><td>English</td></tr>
+        <tr><td>China Medical University</td><td>Shenyang</td><td>40,000</td><td>7,000</td><td>English</td></tr>
+        <tr><td>Shandong University</td><td>Jinan</td><td>30,000–40,000</td><td>4,000–7,000</td><td>English</td></tr>
+        <tr><td>Sichuan University</td><td>Chengdu</td><td>45,000</td><td>6,000–8,000</td><td>English</td></tr>
+        <tr><td>Xi’an Jiaotong University</td><td>Xi’an</td><td>40,000</td><td>8,700</td><td>English</td></tr>
+        <tr><td>Sun Yat-sen University</td><td>Guangzhou</td><td>48,000</td><td>7,000</td><td>English</td></tr>
+        <tr><td>Huazhong University of Science & Technology</td><td>Wuhan</td><td>48,000</td><td>7,000</td><td>English</td></tr>
+        <tr><td>Wuhan University</td><td>Wuhan</td><td>40,000</td><td>7,200</td><td>English</td></tr>
+        <tr><td>Tianjin Medical University</td><td>Tianjin</td><td>35,000–45,000</td><td>5,000–8,000</td><td>English</td></tr>
+        <tr><td>Capital Medical University</td><td>Beijing</td><td>40,000</td><td>7,000</td><td>English & Chinese</td></tr>
+        <tr><td>Guangxi Medical University</td><td>Nanning</td><td>30,000</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Jilin University</td><td>Changchun</td><td>29,000</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Harbin Medical University</td><td>Harbin</td><td>45,000</td><td>6,000</td><td>English</td></tr>
+        <tr><td>Xuzhou Medical University</td><td>Xuzhou</td><td>40,000</td><td>6,000</td><td>English</td></tr>
+        <tr><td>Qingdao University</td><td>Qingdao</td><td>35,000</td><td>11,000</td><td>English</td></tr>
+        <tr><td>Ningxia Medical University</td><td>Yinchuan</td><td>28,000</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Xinjiang Medical University</td><td>Ürümqi</td><td>33,000</td><td>6,000</td><td>English</td></tr>
+        <tr><td>Anhui Medical University</td><td>Hefei</td><td>25,000</td><td>4,000</td><td>English</td></tr>
+        <tr><td>Zhengzhou University</td><td>Zhengzhou</td><td>35,000</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Chongqing Medical University</td><td>Chongqing</td><td>32,000</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Jiangsu University</td><td>Zhenjiang</td><td>34,000</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Jinzhou Medical University</td><td>Jinzhou</td><td>29,000</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Kunming Medical University</td><td>Kunming</td><td>30,500</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Wenzhou Medical University</td><td>Wenzhou</td><td>30,000</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Hebei Medical University</td><td>Shijiazhuang</td><td>30,000</td><td>5,000</td><td>English</td></tr>
+        <tr><td>Fujian Medical University</td><td>Fuzhou</td><td>35,000</td><td>4,000</td><td>English</td></tr>
+        <tr><td>Beihua University</td><td>Jilin City</td><td>21,000</td><td>4,000</td><td>English</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>

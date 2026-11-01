@@ -1,0 +1,156 @@
+Poland :-
+
+<style>
+  .poland-mbbs-wrap {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 20px 0;
+  }
+
+  .poland-mbbs-title {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1e73be;
+    margin-bottom: 20px;
+  }
+
+  .poland-mbbs-table-wrap {
+    overflow-x: auto;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    border-radius: 12px;
+    background: #fff;
+  }
+
+  table.poland-mbbs {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 800px;
+  }
+
+  table.poland-mbbs th, table.poland-mbbs td {
+    padding: 16px 12px;
+    text-align: center;
+  }
+
+  table.poland-mbbs th {
+    background: linear-gradient(135deg, #3b82f6, #06b6d4);
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  table.poland-mbbs td {
+    border-bottom: 1px solid #f1f1f1;
+    font-size: 14px;
+    color: #333;
+  }
+
+  table.poland-mbbs tr:nth-child(even) {
+    background: #f9fbff;
+  }
+
+  table.poland-mbbs tr:hover {
+    background: #eaf3ff;
+    transform: scale(1.01);
+    transition: 0.2s;
+  }
+
+  @media (max-width: 768px) {
+    table.poland-mbbs {
+      min-width: 100%;
+    }
+    table.poland-mbbs th, table.poland-mbbs td {
+      padding: 12px 8px;
+      font-size: 13px;
+    }
+  }
+</style>
+
+<div class="poland-mbbs-wrap">
+  <h2 class="poland-mbbs-title">🏛️ Public Medical Universities in Poland</h2>
+  <div class="poland-mbbs-table-wrap">
+    <table class="poland-mbbs">
+      <thead>
+        <tr>
+          <th>University</th>
+          <th>Tuition Fees (Annual)</th>
+          <th>Hostel Fees (Annual)</th>
+          <th>Teaching Language</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Medical University of Warsaw</td>
+          <td>€11,500–€13,000</td>
+          <td>€3,000</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+        <tr>
+          <td>Medical University of Gdańsk</td>
+          <td>€11,000–€12,500</td>
+          <td>€3,000</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+        <tr>
+          <td>Medical University of Łódź</td>
+          <td>€11,800–€13,000</td>
+          <td>€3,500</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+        <tr>
+          <td>Medical University of Lublin</td>
+          <td>€12,800–€13,000</td>
+          <td>€2,000–€3,000</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+        <tr>
+          <td>Poznań University of Medical Sciences</td>
+          <td>€12,000–€13,000</td>
+          <td>€2,500–€3,000</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+        <tr>
+          <td>Medical University of Białystok</td>
+          <td>€11,500</td>
+          <td>€1,100–€1,300</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+        <tr>
+          <td>University of Warmia and Mazury</td>
+          <td>€10,500–€11,500</td>
+          <td>€3,000</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+        <tr>
+          <td>Wrocław Medical University</td>
+          <td>€11,000–€12,000</td>
+          <td>€2,000</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+        <tr>
+          <td>Nicolaus Copernicus University</td>
+          <td>€10,800–€12,800</td>
+          <td>€2,000</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+        <tr>
+          <td>University of Silesia</td>
+          <td>€7,200</td>
+          <td>€2,700</td>
+          <td>English</td>
+          <td>Public</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

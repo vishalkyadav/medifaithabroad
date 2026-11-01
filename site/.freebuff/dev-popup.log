@@ -1,0 +1,23 @@
+▲ Next.js 16.4.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.108:3000
+✓ Ready in 1520ms
+✓ Running next.config.ts took 82ms
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead.
+
+  To migrate automatically, run:
+  npx @next/codemod@canary middleware-to-proxy .
+
+  Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+- Cache Components enabled
+- Partial Prefetching enabled
+
+○ Compiling / ...
+ GET / 200 in 1598ms (next.js: 656ms, application-code: 941ms)
+ GET / 200 in 1127ms (next.js: 8ms, application-code: 1119ms)
+ GET /contact 200 in 161ms (next.js: 52ms, application-code: 109ms)
+ GET / 200 in 343ms (next.js: 6ms, application-code: 337ms)
+ GET / 200 in 281ms (next.js: 4ms, application-code: 277ms)
+ GET / 200 in 262ms (next.js: 6ms, application-code: 255ms)
+ GET / 200 in 211ms (next.js: 5ms, application-code: 206ms)
+[?25h

@@ -1,0 +1,199 @@
+kyrgyzstan :-
+
+<style>
+  .mbbs-wrap {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 20px 0;
+  }
+
+  .mbbs-title {
+    margin: 0 0 16px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1e73be;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .mbbs-table-wrap {
+    overflow-x: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  }
+
+  table.mbbs {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 920px;
+    background: #fff;
+  }
+
+  /* Table Head */
+  table.mbbs thead th {
+    position: sticky;
+    top: 0;
+    background: linear-gradient(135deg, #1e73be, #0056a3);
+    color: #fff;
+    font-weight: 600;
+    padding: 14px 10px;
+    text-align: center;
+    font-size: 15px;
+    z-index: 5;
+  }
+
+  /* Table Body */
+  table.mbbs td {
+    border: 1px solid #f1f1f1;
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+  }
+
+  /* Zebra effect */
+  table.mbbs tbody tr:nth-child(even) {
+    background: #f9fbff;
+  }
+
+  /* Hover effect */
+  table.mbbs tbody tr:hover {
+    background: #eaf3ff;
+    transform: scale(1.01);
+    transition: 0.2s;
+  }
+
+  /* First column bold */
+  table.mbbs td:first-child {
+    font-weight: 600;
+    text-align: left;
+    padding-left: 12px;
+    color: #333;
+  }
+
+  /* Note Section */
+  .mbbs-note {
+    font-size: 14px;
+    color: #444;
+    margin-top: 12px;
+    padding: 12px;
+    border-left: 4px solid #1e73be;
+    background: #f9f9f9;
+    border-radius: 6px;
+  }
+
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    table.mbbs {
+      font-size: 13px;
+      min-width: 680px;
+    }
+    .mbbs-title {
+      font-size: 22px;
+    }
+  }
+</style>
+
+
+<div class="mbbs-wrap">
+  <h2 class="mbbs-title">MBBS in Kyrgyzstan – Fee Structure</h2>
+
+  <div class="mbbs-table-wrap">
+    <table class="mbbs">
+      <thead>
+        <tr>
+          <th>College Name</th>
+          <th>Tuition Fee<br>(Per Year, INR)</th>
+          <th>Hostel Fee<br>(Per Year, INR)</th>
+          <th>Total (Approx./Year)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Asian Medical Institute, Kant</td>
+          <td>₹2,92,400</td>
+          <td>₹38,700</td>
+          <td>₹3,31,100</td>
+        </tr>
+        <tr>
+          <td>International Higher School of Medicine (IHSM), Bishkek</td>
+          <td>₹3,26,800</td>
+          <td>₹55,900</td>
+          <td>₹3,82,700</td>
+        </tr>
+        <tr>
+          <td>Osh State University, Osh</td>
+          <td>₹3,01,000</td>
+          <td>₹1,50,500</td>
+          <td>₹4,51,500</td>
+        </tr>
+        <tr>
+          <td>Kyrgyz National University, Bishkek</td>
+          <td>₹3,87,000</td>
+          <td>₹68,800</td>
+          <td>₹4,55,800</td>
+        </tr>
+        <tr>
+          <td>Kyrgyz Russian Slavic University, Bishkek</td>
+          <td>₹5,59,000</td>
+          <td>₹34,400</td>
+          <td>₹5,93,400</td>
+        </tr>
+        <tr>
+          <td>Jalalabad State University, Jalal-Abad</td>
+          <td>₹3,61,200</td>
+          <td>₹51,600</td>
+          <td>₹4,12,800</td>
+        </tr>
+        <tr>
+          <td>International School of Medicine, Bishkek</td>
+          <td>₹5,56,000</td>
+          <td>₹56,000</td>
+          <td>₹6,12,000</td>
+        </tr>
+        <tr>
+          <td>Kyrgyz State Medical Academy, Bishkek</td>
+          <td>₹3,65,200</td>
+          <td>—</td>
+          <td>₹3,65,200</td>
+        </tr>
+        <tr>
+          <td>Bishkek International Medical Institute</td>
+          <td>₹2,90,500</td>
+          <td>₹49,800</td>
+          <td>₹3,40,300</td>
+        </tr>
+        <tr>
+          <td>LN Medical College Kyrgyzstan (private)</td>
+          <td>₹3,32,000</td>
+          <td>₹1,49,400</td>
+          <td>₹4,81,400</td>
+        </tr>
+        <tr>
+          <td>Osh State University (Medical Faculty)</td>
+          <td>₹2,88,000</td>
+          <td>₹33,200</td>
+          <td>₹3,21,200</td>
+        </tr>
+        <tr>
+          <td>International University of Kyrgyzstan, Bishkek</td>
+          <td>₹3,50,000 (USD 4,500 est.)</td>
+          <td>₹ ~50,000</td>
+          <td>₹4,00,000 est.</td>
+        </tr>
+        <tr>
+          <td>Avicenna International Medical University</td>
+          <td>₹3,28,000</td>
+          <td>₹ ~50,000</td>
+          <td>₹3,78,000 est.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="mbbs-note">
+    <p>🔹 INR conversions assume an exchange rate of ₹88 per USD. Fees are rounded estimates and subject to change.</p>
+    <p>🔹 Some universities may include additional charges (insurance, mess, etc.). OTC depends on the university.</p>
+  </div>
+</div>
+<!-- ===== /MBBS in Kyrgyzstan Table ===== -->

@@ -1,0 +1,179 @@
+Kazakhstan :-
+
+<style>
+  .mbbs-wrap {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 20px 0;
+  }
+
+  .mbbs-title {
+    margin: 0 0 16px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1e73be;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .mbbs-table-wrap {
+    overflow-x: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  }
+
+  table.mbbs {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 820px;
+    background: #fff;
+  }
+
+  /* Table Head */
+  table.mbbs thead th {
+    position: sticky;
+    top: 0;
+    background: linear-gradient(135deg, #1e73be, #0056a3);
+    color: #fff;
+    font-weight: 600;
+    padding: 14px 10px;
+    text-align: center;
+    font-size: 15px;
+    z-index: 5;
+  }
+
+  /* Table Body */
+  table.mbbs td {
+    border: 1px solid #f1f1f1;
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+  }
+
+  /* Zebra effect */
+  table.mbbs tbody tr:nth-child(even) {
+    background: #f9fbff;
+  }
+
+  /* Hover effect */
+  table.mbbs tbody tr:hover {
+    background: #eaf3ff;
+    transform: scale(1.01);
+    transition: 0.2s;
+  }
+
+  /* First column bold */
+  table.mbbs td:first-child {
+    font-weight: 600;
+    text-align: left;
+    padding-left: 12px;
+    color: #333;
+  }
+
+  /* Note Section */
+  .mbbs-note {
+    font-size: 14px;
+    color: #444;
+    margin-top: 12px;
+    padding: 12px;
+    border-left: 4px solid #1e73be;
+    background: #f9f9f9;
+    border-radius: 6px;
+  }
+
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    table.mbbs {
+      font-size: 13px;
+      min-width: 680px;
+    }
+    .mbbs-title {
+      font-size: 22px;
+    }
+  }
+</style>
+
+<div class="mbbs-wrap">
+ 
+
+  <div class="mbbs-table-wrap">
+    <table class="mbbs">
+      <thead>
+        <tr>
+          <th>College Name</th>
+          <th>Tuition Fee (Whole Course)</th>
+          <th>Hostel Fee (Whole Course)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Asfendiyarov Kazakh National Medical University</td>
+          <td>₹27,66,600 (total)</td>
+          <td>₹4,69,800 (total)</td>
+        </tr>
+        <tr>
+          <td>Al-Farabi Kazakh National University</td>
+          <td>₹24,12,300 (total)</td>
+          <td>₹5,24,256 (total)</td>
+        </tr>
+        <tr>
+          <td>South Kazakhstan Medical Academy</td>
+          <td>₹12,93,000 (total)</td>
+          <td>₹2,15,000 (total)</td>
+        </tr>
+        <tr>
+          <td>Karaganda State Medical University</td>
+          <td>₹24,51,000 (total)</td>
+          <td>₹2,58,000 (total)</td>
+        </tr>
+        <tr>
+          <td>Kazakh Medical University of Continuing Education</td>
+          <td>₹23,22,000 (total)</td>
+          <td>₹2,32,200 (total)</td>
+        </tr>
+        <tr>
+          <td>Kazakhstan-Russian Medical University</td>
+          <td>₹14,37,000 (total)</td>
+          <td>₹2,51,000 (total)</td>
+        </tr>
+        <tr>
+          <td>Kokshetau State University</td>
+          <td>₹18,74,800 (total)</td>
+          <td>₹3,61,200 (total)</td>
+        </tr>
+        <tr>
+          <td>M. Kozybayev North Kazakhstan State University</td>
+          <td>₹10,77,000 (total)</td>
+          <td>₹1,79,000 (total)</td>
+        </tr>
+        <tr>
+          <td>Semey State Medical University</td>
+          <td>₹19,60,800 (total)</td>
+          <td>₹5,16,000 (total)</td>
+        </tr>
+        <tr>
+          <td>University of International Business (International Medical School)</td>
+          <td>₹21,55,000 (total)</td>
+          <td>₹7,86,000 (total)</td>
+        </tr>
+        <tr>
+          <td>West Kazakhstan Marat Ospanov State Medical University, Aktobe</td>
+          <td>₹21,15,600 (total)</td>
+          <td>₹2,58,000 (total)</td>
+        </tr>
+        <tr>
+          <td>Astana Medical University, Kazakhstan</td>
+          <td>₹3,43,127 (likely per year)</td>
+          <td>₹53,093 (possibly per year)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="mbbs-note">
+    <strong>Note:</strong> OTC (Other Charges) may vary depending on the student’s profile and marks.
+  </div>
+</div>
+
+

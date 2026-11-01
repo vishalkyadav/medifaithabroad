@@ -1,0 +1,245 @@
+ Germany :- 
+
+<style>
+  .mbbs-wrap {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 20px 0;
+  }
+
+  .mbbs-title {
+    margin: 0 0 16px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1e73be;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .mbbs-table-wrap {
+    overflow-x: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  }
+
+  table.mbbs {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 920px;
+    background: #fff;
+  }
+
+  /* Table Head */
+  table.mbbs thead th {
+    position: sticky;
+    top: 0;
+    background: linear-gradient(135deg, #1e73be, #0056a3);
+    color: #fff;
+    font-weight: 600;
+    padding: 14px 10px;
+    text-align: center;
+    font-size: 15px;
+    z-index: 5;
+  }
+
+  /* Table Body */
+  table.mbbs td {
+    border: 1px solid #f1f1f1;
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+  }
+
+  /* Zebra effect */
+  table.mbbs tbody tr:nth-child(even) {
+    background: #f9fbff;
+  }
+
+  /* Hover effect */
+  table.mbbs tbody tr:hover {
+    background: #eaf3ff;
+    transform: scale(1.01);
+    transition: 0.2s;
+  }
+
+  /* First column bold */
+  table.mbbs td:first-child {
+    font-weight: 600;
+    text-align: left;
+    padding-left: 12px;
+    color: #333;
+  }
+
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    table.mbbs {
+      font-size: 13px;
+      min-width: 680px;
+    }
+    .mbbs-title {
+      font-size: 22px;
+    }
+  }
+  .mbbs-wrap h2{font-size:18px}
+  
+</style>
+
+
+<div class="mbbs-wrap">
+  <h2 class="mbbs-title">🏛️ Public Universities (Low-Cost or No Tuition Fees) – MBBS in Germany</h2>
+
+  <div class="mbbs-table-wrap">
+    <table class="mbbs">
+      <thead>
+        <tr>
+          <th>University</th>
+          <th>Tuition Fees (Annual)</th>
+          <th>Semester Contribution</th>
+          <th>Teaching Language</th>
+          <th>Hostel Facilities</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Heidelberg University</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>Charité – Universitätsmedizin Berlin</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>Ludwig Maximilian University of Munich (LMU)</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>RWTH Aachen University</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Freiburg</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Tübingen</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>Goethe University Frankfurt</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Bonn</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Duisburg-Essen</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>Humboldt University of Berlin</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Leipzig</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Göttingen</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Würzburg</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Mainz</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Erlangen-Nuremberg</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Rostock</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Greifswald</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Marburg</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Halle-Wittenberg</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Jena</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Mannheim</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Oldenburg</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Potsdam</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Siegen</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+        <tr><td>University of Kassel</td><td>€0</td><td>€150–€300</td><td>German</td><td>Available</td><td>Public</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<style>
+  .mbbs-wrap {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 20px 0;
+  }
+
+  .mbbs-title {
+    margin: 0 0 16px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1e73be;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .mbbs-table-wrap {
+    overflow-x: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+    max-width: 1250px;
+    margin: 0 auto;
+  }
+
+  table.mbbs {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 1250px;
+    background: #fff;
+  }
+
+  /* Table Head */
+  table.mbbs thead th {
+    position: sticky;
+    top: 0;
+    background: linear-gradient(135deg, #1e73be, #0056a3);
+    color: #fff;
+    font-weight: 600;
+    padding: 14px 10px;
+    text-align: center;
+    font-size: 15px;
+    z-index: 5;
+  }
+
+  /* Table Body */
+  table.mbbs td {
+    border: 1px solid #f1f1f1;
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+  }
+
+  /* Zebra effect */
+  table.mbbs tbody tr:nth-child(even) {
+    background: #f9fbff;
+  }
+
+  /* Hover effect */
+  table.mbbs tbody tr:hover {
+    background: #eaf3ff;
+    transform: scale(1.01);
+    transition: 0.2s;
+  }
+
+  /* First column bold */
+  table.mbbs td:first-child {
+    font-weight: 600;
+    text-align: left;
+    padding-left: 12px;
+    color: #333;
+  }
+</style>
+
+<div class="mbbs-wrap">
+  <h2 class="mbbs-title">🏫 Private Universities (Higher Tuition Fees)</h2>
+  <div class="mbbs-table-wrap">
+    <table class="mbbs">
+      <thead>
+        <tr>
+          <th>University</th>
+          <th>Tuition Fees (Annual)</th>
+          <th>Semester Contribution</th>
+          <th>Teaching Language</th>
+          <th>Hostel Facilities</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Brandenburg Medical School “Theodor Fontane”</td><td>€10,000–€15,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>Witten/Herdecke University</td><td>€10,000–€15,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Targu Mures Medical Campus Hamburg</td><td>€20,000–€30,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>Medical School Hamburg</td><td>€20,000–€25,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Munich (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Heidelberg (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Berlin (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Frankfurt (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Freiburg (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Tübingen (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Göttingen (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Leipzig (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Würzburg (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Mainz (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Erlangen-Nuremberg (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Rostock (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+        <tr><td>University of Greifswald (Private)</td><td>€15,000–€20,000</td><td>€300–€500</td><td>English</td><td>Available</td><td>Private</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>

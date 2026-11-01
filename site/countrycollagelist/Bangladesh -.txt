@@ -1,0 +1,322 @@
+Bangladesh :- 
+
+<style>
+  .mbbs-wrap {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 20px 0;
+  }
+
+  .mbbs-title {
+    margin: 0 0 16px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1e73be;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .mbbs-table-wrap {
+    overflow-x: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  }
+
+  table.mbbs {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 820px;
+    background: #fff;
+  }
+
+  /* Table Head */
+  table.mbbs thead th {
+    position: sticky;
+    top: 0;
+    background: linear-gradient(135deg, #1e73be, #0056a3);
+    color: #fff;
+    font-weight: 600;
+    padding: 14px 10px;
+    text-align: center;
+    font-size: 15px;
+    z-index: 5;
+  }
+
+  /* Table Body */
+  table.mbbs td {
+    border: 1px solid #f1f1f1;
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+  }
+
+  /* Zebra effect */
+  table.mbbs tbody tr:nth-child(even) {
+    background: #f9fbff;
+  }
+
+  /* Hover effect */
+  table.mbbs tbody tr:hover {
+    background: #eaf3ff;
+    transform: scale(1.01);
+    transition: 0.2s;
+  }
+
+  /* First column bold */
+  table.mbbs td:first-child {
+    font-weight: 600;
+    text-align: left;
+    padding-left: 12px;
+    color: #333;
+  }
+
+  /* Note Section */
+  .mbbs-note {
+    font-size: 14px;
+    color: #444;
+    margin-top: 12px;
+    padding: 12px;
+    border-left: 4px solid #1e73be;
+    background: #f9f9f9;
+    border-radius: 6px;
+  }
+
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    table.mbbs {
+      font-size: 13px;
+      min-width: 680px;
+    }
+    .mbbs-title {
+      font-size: 22px;
+    }
+  }
+</style>
+
+<div class="mbbs-wrap">
+  <div class="mbbs-table-wrap">
+    <table class="mbbs">
+      <thead>
+        <tr>
+          <th>College Name</th>
+          <th>Total Fees (5 yrs, INR)</th>
+          <th>Hostel Included</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Dhaka Medical College</td><td>₹37,00,000</td><td>Varies</td></tr>
+        <tr><td>Bangladesh Medical College</td><td>₹33,00,000</td><td>Likely excluded</td></tr>
+        <tr><td>Ibrahim Medical College</td><td>₹31,00,000</td><td>May be excluded</td></tr>
+        <tr><td>Sylhet Women’s Medical College</td><td>₹28,90,000</td><td>Likely excluded</td></tr>
+        <tr><td>Jahurul Islam Medical College</td><td>₹35,30,586</td><td>Included</td></tr>
+        <tr><td>Holy Family Red Crescent Medical College</td><td>₹43,03,429</td><td>—</td></tr>
+        <tr><td>Dhaka National Medical College</td><td>₹25,81,982</td><td>—</td></tr>
+        <tr><td>Tairunnessa Memorial Medical College</td><td>₹38,74,427</td><td>—</td></tr>
+        <tr><td>Enam Medical College & Hospital</td><td>₹34,80,000 (tuition only)</td><td>Hostel extra</td></tr>
+        <tr><td>East West Medical College</td><td>₹40,02,000</td><td>Included</td></tr>
+        <tr><td>Khulna City Medical College</td><td>~₹33,00,000 (est.)</td><td>Included</td></tr>
+        <tr><td>Barind Medical College</td><td>₹38,74,427</td><td>Included</td></tr>
+        <tr><td>Community-Based Medical College</td><td>₹41,33,369–₹51,58,101</td><td>Varies</td></tr>
+        <tr><td>Anwer Khan Modern Medical College</td><td>INR 33–38 lakhs (est.)</td><td>Included</td></tr>
+        <tr><td>Chittagong Medical College</td><td>₹26–30 lakhs (est.)</td><td>Likely no</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="mbbs-note">
+    <strong>Notes:</strong>
+    <ul>
+      <li>Fees represent total approximate cost for the full 5-year MBBS course; actual figures may vary slightly.</li>
+      <li>Hostel inclusion varies—confirm with the college when applying.</li>
+      <li>Exchange rate assumed from USD.</li>
+    </ul>
+  </div>
+</div>
+
+
+rules:- 
+    <div class="uzb-admission-process">
+  <h2>🇧🇩 Admission Process for MBBS in Bangladesh</h2>
+  <p class="sub-heading">✨ Embark on Your Medical Dream!</p>
+
+  <div class="process-step">
+    <h3>1. Spark Your Journey: Check Your Eligibility</h3>
+    <ul>
+      <li><strong>PCB aspirant?</strong> Class 12 with Physics, Chemistry, Biology—and at least <strong>60% in PCB</strong> (55% for reserved categories)</li>
+      <li><strong>NEET?</strong> Qualifying NEET score is mandatory for Indian students</li>
+      <li>Must be <strong>17 years or older</strong> by December 31 of the admission year</li>
+      <li><strong>No Drop year</strong> allowed</li>
+    </ul>
+  </div>
+
+  <div class="process-step">
+    <h3>2. Select Your Stage: Pick the Ideal College</h3>
+    <ul>
+      <li>Choose from NMC-, BMDC-, WHO-approved institutions</li>
+      <li>Options include government colleges like <strong>Dhaka Medical, Chittagong, Rajshahi</strong></li>
+      <li>Or private colleges like <strong>East West, Tairunnessa, Jahurul Islam</strong></li>
+      <li>Compare fees, infrastructure, clinical exposure, and hostel facilities</li>
+    </ul>
+  </div>
+
+  <div class="process-step">
+    <h3>3. Apply with Purpose: Submit Your Documents</h3>
+    <ul>
+      <li>Required: 10th & 12th mark sheets, NEET scorecard, passport copy, birth certificate, equivalency certificate, photos</li>
+      <li>Some colleges ask for extra docs (insurance, medical fitness)—check early!</li>
+      <li><strong>Pro Tip:</strong> Ensure documents are attested/authorized if needed</li>
+    </ul>
+  </div>
+
+  <div class="process-step">
+    <h3>4. Get the Golden Ticket: Admission Letter</h3>
+    <ul>
+      <li>After review, expect Admission Letter in <strong>6–8 weeks</strong></li>
+      <li>This confirms enrollment and enables visa & seat confirmation</li>
+    </ul>
+  </div>
+
+  <div class="process-step">
+    <h3>5. Secure Your Seat: Fee Payment</h3>
+    <ul>
+      <li>Pay first-year tuition (or full course, depending on college) to lock your seat</li>
+      <li>Installment/lump-sum options vary by college</li>
+      <li>Budget: ₹25–40 lakhs total (tuition, hostel, food, books)</li>
+    </ul>
+  </div>
+
+  <div class="process-step">
+    <h3>6. Visa Voyage: Apply and Travel</h3>
+    <ul>
+      <li>Apply for student visa with Admission Letter + passport at Bangladesh High Commission</li>
+      <li>Processing time: ~60 days</li>
+      <li>Once approved—book flights, pack, and get ready!</li>
+    </ul>
+  </div>
+
+  <div class="process-step">
+    <h3>7. Arrive & Thrive: Campus Enrollment</h3>
+    <ul>
+      <li>Submit original docs at college</li>
+      <li>Receive Student ID, attend orientation, move into hostel</li>
+      <li>Most colleges provide Indian-style mess and secure accommodations</li>
+    </ul>
+  </div>
+
+  <div class="process-step">
+    <h3>8. Journey to Doctorhood: Study, Train & Intern</h3>
+    <ul>
+      <li>MBBS = 5 years academics + 1-year internship (NMC approved)</li>
+      <li>Medium of instruction: <strong>English</strong></li>
+      <li>Early clinical exposure ensures strong hands-on training</li>
+      <li>Degree valid for FMGE/NExT registration in India</li>
+    </ul>
+  </div>
+</div>
+
+<style>
+.uzb-admission-process {
+  font-family: 'Poppins', 'Segoe UI', Arial, sans-serif;
+  max-width: 1250px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #f8faff;
+  border-radius: 14px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+.uzb-admission-process h2 {
+  text-align: center;
+  color: #0d47a1;
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.uzb-admission-process .sub-heading {
+  text-align: center;
+  font-size: 18px;
+  color: #555;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.process-step {
+  background: #fff;
+  padding: 22px 24px;
+  margin-bottom: 22px;
+  border-radius: 12px;
+  border-left: 6px solid #0d47a1;
+  transition: 0.3s ease;
+}
+
+.process-step:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
+.process-step h3 {
+  color: #0d47a1;
+  margin-bottom: 12px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.process-step ul {
+  margin: 0;
+  padding-left: 22px;
+  color: #333;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.notes {
+  background: #e3f2fd;
+  border-left: 6px solid #1565c0;
+}
+
+/* ✅ Responsive Design */
+@media (max-width: 991px) {
+  .uzb-admission-process {
+    padding: 20px;
+  }
+  .uzb-admission-process h2 {
+    font-size: 28px;
+    word-spacing: 3px;
+  }
+  .uzb-admission-process .sub-heading {
+    font-size: 16px;
+  }
+  .process-step h3 {
+    font-size: 18px;
+  }
+  .process-step ul {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 576px) {
+  .uzb-admission-process {
+    padding: 15px;
+  }
+  .uzb-admission-process h2 {
+    font-size: 22px;
+    line-height: 1.4;
+  }
+  .uzb-admission-process .sub-heading {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .process-step {
+    padding: 15px 16px;
+  }
+  .process-step h3 {
+    font-size: 16px;
+  }
+  .process-step ul {
+    font-size: 13px;
+    line-height: 1.5;
+  }
+}
+</style>

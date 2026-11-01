@@ -1,0 +1,98 @@
+▲ Next.js 16.4.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.108:3000
+✓ Ready in 1885ms
+✓ Running next.config.ts took 68ms
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead.
+
+  To migrate automatically, run:
+  npx @next/codemod@canary middleware-to-proxy .
+
+  Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+- Cache Components enabled
+- Partial Prefetching enabled
+
+○ Compiling /countries/[slug] ...
+ GET /countries/china 200 in 7.8s (next.js: 5.1s, proxy.ts: 99ms, generate-params: 1955ms, application-code: 621ms)
+ GET /countries/china 200 in 363ms (next.js: 81ms, proxy.ts: 10ms, generate-params: 9ms, application-code: 264ms)
+ GET /countries/china 200 in 378ms (next.js: 149ms, proxy.ts: 6ms, generate-params: 0.0ms, application-code: 223ms)
+ GET /countries/china 200 in 293ms (next.js: 15ms, proxy.ts: 6ms, generate-params: 0.1ms, application-code: 272ms)
+ GET /countries/united-kingdom 200 in 261ms (next.js: 122ms, proxy.ts: 9ms, generate-params: 7ms, application-code: 123ms)
+ GET /countries/germany 200 in 145ms (next.js: 13ms, proxy.ts: 5ms, generate-params: 7ms, application-code: 121ms)
+ GET /countries/bangladesh 200 in 138ms (next.js: 16ms, proxy.ts: 6ms, generate-params: 7ms, application-code: 109ms)
+ GET /countries/kyrgyzstan 200 in 127ms (next.js: 13ms, proxy.ts: 6ms, generate-params: 6ms, application-code: 102ms)
+ GET /countries/nepal 200 in 123ms (next.js: 14ms, proxy.ts: 5ms, generate-params: 7ms, application-code: 97ms)
+ GET /countries/georgia 200 in 145ms (next.js: 45ms, proxy.ts: 4ms, generate-params: 6ms, application-code: 89ms)
+ GET /countries/kazakhstan 200 in 147ms (next.js: 17ms, proxy.ts: 4ms, generate-params: 8ms, application-code: 117ms)
+ GET /countries/uzbekistan 200 in 127ms (next.js: 12ms, proxy.ts: 4ms, generate-params: 7ms, application-code: 105ms)
+ GET /countries/china 200 in 137ms (next.js: 16ms, proxy.ts: 4ms, generate-params: 7ms, application-code: 110ms)
+ GET /countries/poland 200 in 122ms (next.js: 12ms, proxy.ts: 4ms, generate-params: 6ms, application-code: 99ms)
+ GET /countries/russia 200 in 141ms (next.js: 12ms, proxy.ts: 4ms, generate-params: 6ms, application-code: 119ms)
+✓ Compiled in 1413ms
+ GET /countries/russia 200 in 373ms (next.js: 127ms, proxy.ts: 7ms, generate-params: 16ms, application-code: 224ms)
+✓ Compiled in 880ms
+ GET /countries/russia 200 in 421ms (next.js: 196ms, proxy.ts: 6ms, generate-params: 12ms, application-code: 206ms)
+ GET /countries/nepal 200 in 793ms (next.js: 174ms, proxy.ts: 4ms, generate-params: 12ms, application-code: 604ms)
+ GET /countries/germany 200 in 619ms (next.js: 96ms, proxy.ts: 5ms, generate-params: 0.1ms, application-code: 517ms)
+ GET /countries/russia 200 in 556ms (next.js: 57ms, proxy.ts: 5ms, generate-params: 0.0ms, application-code: 494ms)
+ GET / 200 in 358ms (next.js: 40ms, application-code: 318ms)
+ GET / 200 in 187ms (next.js: 3ms, application-code: 184ms)
+[browser] Image with src "/images/studentfamily4.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "/images/studentfamily1.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+ GET /countries/nepal 200 in 226ms (next.js: 20ms, proxy.ts: 6ms, generate-params: 8ms, application-code: 193ms)
+ GET /countries/russia 200 in 239ms (next.js: 12ms, proxy.ts: 3ms, generate-params: 8ms, application-code: 215ms)
+ GET /countries/poland 200 in 294ms (next.js: 55ms, proxy.ts: 6ms, generate-params: 0.1ms, application-code: 233ms)
+ GET /countries/china 200 in 282ms (next.js: 14ms, proxy.ts: 3ms, generate-params: 0.0ms, application-code: 264ms)
+ GET /countries/uzbekistan 200 in 272ms (next.js: 12ms, proxy.ts: 5ms, generate-params: 0.1ms, application-code: 255ms)
+ GET /countries/kazakhstan 200 in 249ms (next.js: 16ms, proxy.ts: 5ms, generate-params: 0.0ms, application-code: 228ms)
+ GET /countries/kyrgyzstan 200 in 238ms (next.js: 18ms, proxy.ts: 5ms, generate-params: 0.0ms, application-code: 216ms)
+ GET /countries/nepal 200 in 235ms (next.js: 15ms, proxy.ts: 5ms, generate-params: 0.0ms, application-code: 216ms)
+ GET /countries/bangladesh 200 in 227ms (next.js: 13ms, proxy.ts: 4ms, generate-params: 9ms, application-code: 200ms)
+ GET /countries/germany 200 in 262ms (next.js: 15ms, proxy.ts: 4ms, generate-params: 0.0ms, application-code: 243ms)
+ GET /countries/georgia 200 in 222ms (next.js: 26ms, proxy.ts: 5ms, generate-params: 0.1ms, application-code: 191ms)
+ GET /countries/united-kingdom 200 in 251ms (next.js: 15ms, proxy.ts: 5ms, generate-params: 0.0ms, application-code: 231ms)
+✓ Compiled in 933ms
+ GET /countries/nepal 200 in 505ms (next.js: 87ms, proxy.ts: 193ms, generate-params: 14ms, application-code: 211ms)
+✓ Compiled in 929ms
+ GET /countries/nepal 200 in 353ms (next.js: 100ms, proxy.ts: 45ms, generate-params: 13ms, application-code: 195ms)
+ GET /countries/uzbekistan 200 in 242ms (next.js: 15ms, proxy.ts: 6ms, generate-params: 10ms, application-code: 211ms)
+ GET /countries/georgia 200 in 198ms (next.js: 12ms, proxy.ts: 4ms, generate-params: 0.0ms, application-code: 182ms)
+ GET /countries/georgia 200 in 173ms (next.js: 13ms, proxy.ts: 3ms, generate-params: 0.0ms, application-code: 157ms)
+ GET / 200 in 300ms (next.js: 8ms, application-code: 291ms)
+ GET /countries/nepal 200 in 352ms (next.js: 55ms, proxy.ts: 6ms, generate-params: 10ms, application-code: 281ms)
+ GET /countries/uzbekistan 200 in 322ms (next.js: 65ms, proxy.ts: 5ms, generate-params: 7ms, application-code: 245ms)
+ GET /countries/uzbekistan 200 in 552ms (next.js: 51ms, proxy.ts: 35ms, generate-params: 17ms, application-code: 449ms)
+ GET / 200 in 246ms (next.js: 6ms, application-code: 240ms)
+✓ Compiled in 3s
+ GET / 200 in 473ms (next.js: 29ms, application-code: 445ms)
+ GET /countries/uzbekistan 200 in 622ms (next.js: 89ms, proxy.ts: 6ms, generate-params: 30ms, application-code: 498ms)
+ GET / 200 in 480ms (next.js: 9ms, application-code: 472ms)
+ GET /countries/russia 200 in 618ms (next.js: 65ms, proxy.ts: 6ms, generate-params: 14ms, application-code: 534ms)
+ GET / 200 in 238ms (next.js: 8ms, application-code: 230ms)
+ GET /services 200 in 235ms (next.js: 49ms, application-code: 185ms)
+ GET /about 200 in 333ms (next.js: 58ms, application-code: 274ms)
+ GET /contact 200 in 212ms (next.js: 54ms, application-code: 158ms)
+ POST /api/contact 503 in 349ms (next.js: 228ms, application-code: 122ms)
+ POST /api/contact 503 in 38ms (next.js: 7ms, application-code: 31ms)
+ GET / 200 in 467ms (next.js: 10ms, application-code: 457ms)
+ GET / 200 in 86ms (next.js: 3ms, application-code: 84ms)
+✓ Compiled in 3s
+✓ Compiled in 1529ms
+✓ Compiled in 182ms
+✓ Compiled in 2s
+✓ Compiled in 1648ms
+ GET / 200 in 356ms (next.js: 41ms, application-code: 315ms)
+✓ Compiled in 984ms
+ GET / 200 in 256ms (next.js: 3ms, application-code: 253ms)
+ GET / 200 in 200ms (next.js: 3ms, application-code: 197ms)
+ GET / 200 in 165ms (next.js: 4ms, application-code: 162ms)
+ GET /countries/china 200 in 333ms (next.js: 72ms, proxy.ts: 5ms, generate-params: 10ms, application-code: 245ms)
+ GET /countries/china 200 in 387ms (next.js: 93ms, proxy.ts: 4ms, generate-params: 10ms, application-code: 280ms)
+ POST /api/contact 503 in 44ms (next.js: 4ms, application-code: 40ms)
+ GET /contact 200 in 151ms (next.js: 12ms, application-code: 139ms)
+✓ Compiled in 961ms
+ GET / 200 in 207ms (next.js: 6ms, application-code: 201ms)
+ GET / 200 in 210ms (next.js: 5ms, application-code: 205ms)
+[?25h

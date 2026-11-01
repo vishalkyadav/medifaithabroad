@@ -1,0 +1,136 @@
+ Nepal :-
+
+<style>
+  .mbbs-wrap {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 20px 0;
+  }
+
+  .mbbs-title {
+    margin: 0 0 16px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1e73be;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .mbbs-table-wrap {
+    overflow-x: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  }
+
+  table.mbbs {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 820px;
+    background: #fff;
+  }
+
+  /* Table Head */
+  table.mbbs thead th {
+    position: sticky;
+    top: 0;
+    background: linear-gradient(135deg, #1e73be, #0056a3);
+    color: #fff;
+    font-weight: 600;
+    padding: 14px 10px;
+    text-align: center;
+    font-size: 15px;
+    z-index: 5;
+  }
+
+  /* Table Body */
+  table.mbbs td {
+    border: 1px solid #f1f1f1;
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+  }
+
+  /* Zebra effect */
+  table.mbbs tbody tr:nth-child(even) {
+    background: #f9fbff;
+  }
+
+  /* Hover effect */
+  table.mbbs tbody tr:hover {
+    background: #eaf3ff;
+    transform: scale(1.01);
+    transition: 0.2s;
+  }
+
+  /* First column bold */
+  table.mbbs td:first-child {
+    font-weight: 600;
+    text-align: left;
+    padding-left: 12px;
+    color: #333;
+  }
+
+  /* Note Section */
+  .mbbs-note {
+    font-size: 14px;
+    color: #444;
+    margin-top: 12px;
+    padding: 12px;
+    border-left: 4px solid #1e73be;
+    background: #f9f9f9;
+    border-radius: 6px;
+  }
+
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    table.mbbs {
+      font-size: 13px;
+      min-width: 680px;
+    }
+    .mbbs-title {
+      font-size: 22px;
+    }
+  }
+</style>
+
+<div class="mbbs-wrap">
+
+
+  <div class="mbbs-table-wrap">
+    <table class="mbbs">
+      <thead>
+        <tr>
+          <th>College Name</th>
+          <th>Total MBBS Fee (INR, est.)</th>
+          <th>Notes / Highlights</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Institute of Medicine (IOM), TU – Kathmandu</td><td>₹35–45 L</td><td>Elite government college, highly competitive</td></tr>
+        <tr><td>B.P. Koirala Institute of Health Sciences (BPKIHS) – Dharan</td><td>₹50–55 L</td><td>Autonomous, with top infrastructure</td></tr>
+        <tr><td>Manipal College of Medical Sciences (MCOMS) – Pokhara</td><td>₹55–60 L</td><td>Manipal group–run, advanced facilities</td></tr>
+        <tr><td>Kathmandu University School of Medical Sciences (KUSMS) – Dhulikhel</td><td>₹37 L</td><td>One of cheapest under KU</td></tr>
+        <tr><td>Kathmandu Medical College (KMC) – Kathmandu</td><td>₹55–60 L</td><td>Well-known, good hospital exposure</td></tr>
+        <tr><td>Nepal Medical College (NMC) – Kathmandu</td><td>₹55–60 L</td><td>Modern infrastructure, NMC-approved</td></tr>
+        <tr><td>Nepalgunj Medical College (NGMC) – Nepalgunj</td><td>₹50–55 L</td><td>Value-for-money, popular with Indian students</td></tr>
+        <tr><td>College of Medical Sciences (CMS) – Bharatpur</td><td>₹45–50 L</td><td>KU-affiliated, growing repute</td></tr>
+        <tr><td>Nobel Medical College – Biratnagar</td><td>₹55–60 L</td><td>KU-affiliated, strong hospital</td></tr>
+        <tr><td>Devdaha Medical College – Rupendehi</td><td>₹45–50 L</td><td>Budget-friendly, newer college</td></tr>
+        <tr><td>Lumbini Medical College – Palpa</td><td>₹50–55 L</td><td>KU-affiliated, growing clinical exposure</td></tr>
+        <tr><td>Birat Medical College – Biratnagar</td><td>₹50–55 L</td><td>KU-affiliated, modern campus</td></tr>
+        <tr><td>Janaki Medical College – Janakpur</td><td>₹50–55 L</td><td>TU-affiliated, regional hub</td></tr>
+        <tr><td>Universal College of Medical Sciences (UCMS) – Bhairahawa</td><td>₹50–55 L</td><td>TU-affiliated, good academics</td></tr>
+        <tr><td>National Medical College – Birgunj</td><td>₹50–55 L</td><td>TU-affiliated</td></tr>
+        <tr><td>KIST Medical College – Lalitpur</td><td>₹50–55 L</td><td>TU-affiliated</td></tr>
+        <tr><td>Chitwan Medical College (CMC) – Bharatpur</td><td>₹50–55 L</td><td>TU-affiliated, excellent clinical exposure</td></tr>
+        <tr><td>Gandaki Medical College – Pokhara</td><td>₹50–55 L</td><td>TU-affiliated</td></tr>
+        <tr><td>Devdaha Medical College & Teaching Hospital</td><td>₹45–50 L</td><td>KU-affiliated</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="mbbs-note">
+    📌 <strong>Note:</strong> Fees include tuition and academic charges. Hostel, mess, and miscellaneous costs are extra (typically ₹5–8 L over the course).
+  </div>
+</div>

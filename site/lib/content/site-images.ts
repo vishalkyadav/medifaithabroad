@@ -3,7 +3,7 @@
  */
 
 export const siteImages = {
-  contactHero: "/images/hero-students-park.png",
+  contactHero: "/images/HERO-students-park.png",
   admissionHero: "/images/Students-campus-walk.png",
   servicesHero: "/images/University-Assistance-Office-Copy.png",
   aboutHero: "/images/University-Assistance-Office-Copy.png",

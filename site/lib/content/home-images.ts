@@ -10,7 +10,7 @@ export const homeImages = {
   /** Legacy full-bleed hero; homepage uses heroFeature. */
   hero: "/images/medical-team-corridor.png",
   /** Primary homepage hero photograph (1536×1024). */
-  heroFeature: "/images/hero-students-park.png",
+  heroFeature: "/images/HERO-students-park.png",
   /** Alternate high-res park editorial (1396×932) — originals preserved. */
   parkScene: "/images/park.png",
   chinahero: "/images/university-china.png",
@@ -34,7 +34,7 @@ export const homeImages = {
   studentsLibrary: "/images/high-angle-students-learning-library.png",
   universityCampus: "/images/university-china.png",
   journeyCampus: "/images/university-campus-kazakhstan.png",
-  studentsPark: "/images/hero-students-park.png",
+  studentsPark: "/images/HERO-students-park.png",
   studentdreams: "/images/studentdream.png",
   studentFamilyPhotos: [
     {
